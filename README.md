@@ -4,19 +4,19 @@
 
 # COMMANDS USED
 <p>
-  git config --global user.name
-  git config --global user.email 
-  git clone 
-  cd
-  echo "" >file_name.py
-  git add .
-  git commit -m "commit message"
-  git remote -v
-  git push -u origin main
-  git branch
-  git checkout 
-  git log --oneline
-  git cherry-pick <Oldest_commitID>^..<Newest_commitID>
+  git config --global user.name</p>
+  <p>git config --global user.email </p>
+  <p>git clone </p>
+  <p>cd</p>
+  <p>echo "" >file_name.py</p>
+  <p>git add .</p>
+  <p>git commit -m "commit message"</p>
+  <p>git remote -v</p>
+  <p>git push -u origin main</p>
+  <p>git branch</p>
+  <p>git checkout </p>
+  <p>git log --oneline</p>
+  <p>git cherry-pick <Oldest_commitID>^..<Newest_commitID>
 </p>
 
 # Command execution sequence 
